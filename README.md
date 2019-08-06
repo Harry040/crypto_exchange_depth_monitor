@@ -48,3 +48,4 @@ python orderbook.py
 python utils_db.py
 ```
 
+可以入群[telegram](https://t.me/monitor_marketssss)输入 ```/depth```即可查看深度数据
